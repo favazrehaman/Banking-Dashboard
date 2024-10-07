@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f4f4f9;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    background-image: url('rupee-4395462.jpg'); /* Replace with your image path */
+    background-size: cover; /* Makes the image cover the entire background */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    
+    
+   
+} 
+h1 {
+    text-align: center;
+}
+.balance-display {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0;
+}
+.form-group {
+    margin-bottom: 20px;
+    text-align: center;
+}
+label {
+    font-size: 18px;
+}
+input {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+    width: 80%;
+    max-width: 300px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #e0e0e0;
+}
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+}
+#brdr {
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.5); /* adjust the alpha value to desired transparency */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* drop shadow */
+}
+button {
+    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s; 
+}
+
+button:hover {
+    
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-5px); 
+}
+
+
+        
+        
+        
+        
+     
+
+
